@@ -1,0 +1,57 @@
+Sample Test Case:
+
+Fitbit Plus: 7980
+IPods: 22349
+MI Band: 999
+Cult Pass: 2799
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999
+
+Test Case 1:
+
+Jeans: 1999
+IPhone: 69999
+Pantaloons Voucher: 3000
+PatTM Voucher: 5000
+Spice Coupon: 2000
+ICICI Flat thousand: 1000
+WonderLa Tickets: 6999
+Levis Coupon: 399
+Acer Predator: 120999
+Asus Genfo: 15999
+
+Test Case 2:
+
+Canon: 6000
+I pad pro : 54000
+sigma lens: 10789
+gaming chair: 30520
+blue light filters: 5000
+Finger print Home lock: 6000
+Isro visit cupoun: 40000
+Indoor plants: 6200
+aquarium: 4203
+Teak furniture: 65230
+cricket kit : 12000
+Water filter: 22045
+apple TV box: 35000
+oneplus nord 12gb: 29999
+Alexa: 9999
+
+Test Case 3:
+
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+gaming chair: 30520
+blue light filters: 5000
+Finger print Home lock: 6000
+ICICI Flat thousand: 1000
+WonderLa Tickets: 6999
+Pantaloons Voucher: 3000
+PatTM Voucher: 5000
+SpiceJet Coupon: 2000
